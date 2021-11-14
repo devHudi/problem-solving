@@ -2,7 +2,7 @@
 
 ## 문제 분류 (A to Z)
 
-> 총 44 문제
+> 총 46 문제
 
 - [Binary Search](https://github.com/devHudi/problem-solving/tree/master/binary-search) (3)
 - [Brute Force](https://github.com/devHudi/problem-solving/tree/master/brute-force) (5)
@@ -13,4 +13,4 @@
 - [Heap](https://github.com/devHudi/problem-solving/tree/master/heap) (2)
 - [Sort](https://github.com/devHudi/problem-solving/tree/master/sort) (3)
 - [Stack/Queue](https://github.com/devHudi/problem-solving/tree/master/stack-queue) (4)
-- [ETC](https://github.com/devHudi/problem-solving/tree/master/etc) (9)
+- [ETC](https://github.com/devHudi/problem-solving/tree/master/etc) (11)
