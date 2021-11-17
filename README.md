@@ -2,11 +2,11 @@
 
 ## 문제 분류 (A to Z)
 
-> 총 46 문제
+> 총 47 문제
 
 - [Binary Search](https://github.com/devHudi/problem-solving/tree/master/binary-search) (3)
 - [Brute Force](https://github.com/devHudi/problem-solving/tree/master/brute-force) (5)
-- [DFS/BFS](https://github.com/devHudi/problem-solving/tree/master/dfs-bfs) (5)
+- [DFS/BFS](https://github.com/devHudi/problem-solving/tree/master/dfs-bfs) (6)
 - [Dynamic Programming](https://github.com/devHudi/problem-solving/tree/master/dynamic-programming) (4)
 - [Greedy](https://github.com/devHudi/problem-solving/tree/master/greedy) (5)
 - [Hash Table](https://github.com/devHudi/problem-solving/tree/master/hash-table) (4)
